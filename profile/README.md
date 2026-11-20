@@ -10,15 +10,15 @@
 
 ### 👋 Hi, I'm Norry
 
-<img src="assets/norry.gif" alt="Norry" width="200"/>
+<img src="assets/norry.gif" alt="Norry" width="150"/>
 
-I'm a deadpan kid in a blocky world where every story has **one strange rule**.<br/>
-New animated 3D shorts most days, told by me.
+A deadpan kid in a blocky world.<br/>
+Every story has **one strange rule**, and I tell it.
 
-<a href="https://www.youtube.com/@norry_films"><img src="assets/social/youtube.svg" alt="YouTube" height="44"/></a>
-<a href="https://www.tiktok.com/@norry_films"><img src="assets/social/tiktok.svg" alt="TikTok" height="44"/></a>
-<a href="https://www.instagram.com/norry_films/"><img src="assets/social/instagram.svg" alt="Instagram" height="44"/></a>
-<a href="https://www.facebook.com/profile.php?id=61596417936251"><img src="assets/social/facebook.svg" alt="Facebook" height="44"/></a>
+<a href="https://www.youtube.com/@norry_films"><img src="assets/social/youtube.svg" alt="YouTube" height="40"/></a>
+<a href="https://www.tiktok.com/@norry_films"><img src="assets/social/tiktok.svg" alt="TikTok" height="40"/></a>
+<a href="https://www.instagram.com/norry_films/"><img src="assets/social/instagram.svg" alt="Instagram" height="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=61596417936251"><img src="assets/social/facebook.svg" alt="Facebook" height="40"/></a>
 
 <img src="assets/footer.svg" alt="" width="420"/>
 
