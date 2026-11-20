@@ -6,23 +6,19 @@
 
 </div>
 
-### 👋 Hi, I'm Norry
-
-<img src="assets/norry.gif" alt="Norry" width="140" align="right"/>
-
-I'm a deadpan kid in a blocky world where every story has **one strange rule**, and I narrate it all in first person.
-
-- 🧸 Original animated **3D story shorts**, a new one most days
-- 📲 On **YouTube Shorts**, **TikTok**, **Instagram** and **Facebook**
-
-<br clear="right"/>
-
 <div align="center">
 
-<a href="https://www.youtube.com/@norry_films"><img src="https://img.shields.io/badge/YouTube-@norry__films-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.tiktok.com/@norry_films"><img src="https://img.shields.io/badge/TikTok-@norry__films-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-<a href="https://www.facebook.com/profile.php?id=61596417936251"><img src="https://img.shields.io/badge/Facebook-Norry%20Films-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/norry_films/"><img src="https://img.shields.io/badge/Instagram-@norry__films-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+### 👋 Hi, I'm Norry
+
+<img src="assets/norry.gif" alt="Norry" width="200"/>
+
+I'm a deadpan kid in a blocky world where every story has **one strange rule**.<br/>
+New animated 3D shorts most days, told by me.
+
+<a href="https://www.youtube.com/@norry_films"><img src="assets/social/youtube.svg" alt="YouTube" height="44"/></a>
+<a href="https://www.tiktok.com/@norry_films"><img src="assets/social/tiktok.svg" alt="TikTok" height="44"/></a>
+<a href="https://www.instagram.com/norry_films/"><img src="assets/social/instagram.svg" alt="Instagram" height="44"/></a>
+<a href="https://www.facebook.com/profile.php?id=61596417936251"><img src="assets/social/facebook.svg" alt="Facebook" height="44"/></a>
 
 <img src="assets/footer.svg" alt="" width="420"/>
 
