@@ -8,7 +8,7 @@
 
 ### 👋 Hi, I'm Norry
 
-<img src="assets/norry.gif" alt="Norry" width="180" align="right"/>
+<img src="assets/norry.gif" alt="Norry" width="140" align="right"/>
 
 I'm a deadpan kid in a blocky world where every story has **one strange rule**, and I narrate it all in first person.
 
